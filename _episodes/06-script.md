@@ -328,6 +328,6 @@ what they discover about their data and their workflow with one call to `history
 and a bit of editing to clean up the output
 and save it as a shell script.
 
-Special Note:
+**Special Note**
 As discussed in the Introductory Supercomputing course, to use Pawsey supercomputers you will need to create bash scripts or "job scripts" to run your code.  Examples are given here
 https://support.pawsey.org.au/documentation/display/US/Example+Job+Scripts#
